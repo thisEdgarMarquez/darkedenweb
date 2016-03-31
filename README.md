@@ -7,7 +7,7 @@ Sistema de Ranking <br>
   *PVP<br>
 Sistema de Market<br>
 Sistema de cuenta<br>
-  *CAMBIAR CONTRASEÑA
+  *CAMBIAR CONTRASEÑA<br>
 Trabaja con MYSQL <br>
 
 Pagina web realizada en el 2012.
