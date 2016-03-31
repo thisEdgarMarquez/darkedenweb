@@ -1,7 +1,7 @@
 # dkweb
 Sitio Web con funciones básicas para servidor de Darkeden 
 
-Sistema de registro
+Sistema de registro<br>
 Sistema de Ranking 
   INDIVIDUAL
   PVP
