@@ -2,12 +2,12 @@
 Sitio Web con funciones básicas para servidor de Darkeden 
 
 Sistema de registro<br>
-Sistema de Ranking 
-  INDIVIDUAL
-  PVP
-Sistema de Market
-Sistema de cuenta
-  CAMBIAR CONTRASEÑA
-Trabaja con MYSQL 
+Sistema de Ranking <br>
+  *INDIVIDUAL<br>
+  *PVP<br>
+Sistema de Market<br>
+Sistema de cuenta<br>
+  *CAMBIAR CONTRASEÑA
+Trabaja con MYSQL <br>
 
 Pagina web realizada en el 2012.
